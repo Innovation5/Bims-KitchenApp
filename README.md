@@ -1,2 +1,2 @@
 # Bims-KitchenApp
-An android application for a night kitchen in gangdhinagar. 
+An android application for a night kitchen in gandhinagar. 
